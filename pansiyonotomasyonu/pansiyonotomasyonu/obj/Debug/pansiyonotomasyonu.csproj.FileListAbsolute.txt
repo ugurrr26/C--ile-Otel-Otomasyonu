@@ -1,0 +1,77 @@
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe.config
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.pdb
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Form1.resources
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Properties.Resources.resources
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.GenerateResource.cache
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.exe
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.pdb
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.anaEkran.resources
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.frmMusteriKayit.resources
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.frmOdalar.resources
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.musteriEkrani.resources
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csprojAssemblyReference.cache
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ismail\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.ResolveComReference.cache
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe.config
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.pdb
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csprojAssemblyReference.cache
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.ResolveComReference.cache
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.anaEkran.resources
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Form1.resources
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.frmMusteriKayit.resources
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.frmOdalar.resources
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.musteriEkrani.resources
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Properties.Resources.resources
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.GenerateResource.cache
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.exe
+C:\Users\fbugu\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.pdb
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe.config
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.pdb
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csprojAssemblyReference.cache
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.ResolveComReference.cache
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.anaEkran.resources
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Form1.resources
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.frmMusteriKayit.resources
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.frmOdalar.resources
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.musteriEkrani.resources
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Properties.Resources.resources
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.GenerateResource.cache
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.exe
+C:\Users\fbugu\Desktop\visual studio\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.pdb
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe.config
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.pdb
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.AssemblyReference.cache
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.ResolveComReference.cache
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.anaEkran.resources
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Form1.resources
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.frmMusteriKayit.resources
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.frmOdalar.resources
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.musteriEkrani.resources
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Properties.Resources.resources
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.GenerateResource.cache
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.exe
+C:\Users\İSMAİL\Desktop\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.pdb
